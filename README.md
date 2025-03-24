@@ -58,6 +58,9 @@ python main.py
 3. **View Rankings** – Check candidate scores based on job criteria.
 4. **Make Decisions** – Use insights to streamline hiring.
 
+## Contributors
+- **Bhavesh Mishra** *(Lead Developer)*
+
 ## Contributing
 Contributions are welcome! If you find any issues or want to improve the project, feel free to fork the repository and submit a pull request.
 
